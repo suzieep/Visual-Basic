@@ -1,0 +1,12 @@
+C:\Users\wnsuw\repo\Visual-Basic\chapter 4-2\chapter 4-2\bin\Debug\chapter 4-2.exe.config
+C:\Users\wnsuw\repo\Visual-Basic\chapter 4-2\chapter 4-2\bin\Debug\chapter 4-2.exe
+C:\Users\wnsuw\repo\Visual-Basic\chapter 4-2\chapter 4-2\bin\Debug\chapter 4-2.pdb
+C:\Users\wnsuw\repo\Visual-Basic\chapter 4-2\chapter 4-2\bin\Debug\chapter 4-2.xml
+C:\Users\wnsuw\repo\Visual-Basic\chapter 4-2\chapter 4-2\obj\Debug\chapter 4-2.vbprojAssemblyReference.cache
+C:\Users\wnsuw\repo\Visual-Basic\chapter 4-2\chapter 4-2\obj\Debug\chapter_4_2.Form1.resources
+C:\Users\wnsuw\repo\Visual-Basic\chapter 4-2\chapter 4-2\obj\Debug\chapter_4_2.Resources.resources
+C:\Users\wnsuw\repo\Visual-Basic\chapter 4-2\chapter 4-2\obj\Debug\chapter 4-2.vbproj.GenerateResource.cache
+C:\Users\wnsuw\repo\Visual-Basic\chapter 4-2\chapter 4-2\obj\Debug\chapter 4-2.vbproj.CoreCompileInputs.cache
+C:\Users\wnsuw\repo\Visual-Basic\chapter 4-2\chapter 4-2\obj\Debug\chapter 4-2.exe
+C:\Users\wnsuw\repo\Visual-Basic\chapter 4-2\chapter 4-2\obj\Debug\chapter 4-2.xml
+C:\Users\wnsuw\repo\Visual-Basic\chapter 4-2\chapter 4-2\obj\Debug\chapter 4-2.pdb

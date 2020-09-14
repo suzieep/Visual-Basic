@@ -1,0 +1,12 @@
+C:\Users\wnsuw\repo\Visual-Basic\chapter4\chapter4\bin\Debug\chapter4.exe.config
+C:\Users\wnsuw\repo\Visual-Basic\chapter4\chapter4\bin\Debug\chapter4.exe
+C:\Users\wnsuw\repo\Visual-Basic\chapter4\chapter4\bin\Debug\chapter4.pdb
+C:\Users\wnsuw\repo\Visual-Basic\chapter4\chapter4\bin\Debug\chapter4.xml
+C:\Users\wnsuw\repo\Visual-Basic\chapter4\chapter4\obj\Debug\chapter4-1.vbprojAssemblyReference.cache
+C:\Users\wnsuw\repo\Visual-Basic\chapter4\chapter4\obj\Debug\chapter4.Form1.resources
+C:\Users\wnsuw\repo\Visual-Basic\chapter4\chapter4\obj\Debug\chapter4.Resources.resources
+C:\Users\wnsuw\repo\Visual-Basic\chapter4\chapter4\obj\Debug\chapter4-1.vbproj.GenerateResource.cache
+C:\Users\wnsuw\repo\Visual-Basic\chapter4\chapter4\obj\Debug\chapter4-1.vbproj.CoreCompileInputs.cache
+C:\Users\wnsuw\repo\Visual-Basic\chapter4\chapter4\obj\Debug\chapter4.exe
+C:\Users\wnsuw\repo\Visual-Basic\chapter4\chapter4\obj\Debug\chapter4.xml
+C:\Users\wnsuw\repo\Visual-Basic\chapter4\chapter4\obj\Debug\chapter4.pdb
