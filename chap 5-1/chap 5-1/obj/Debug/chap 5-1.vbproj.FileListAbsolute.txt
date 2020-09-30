@@ -1,0 +1,12 @@
+C:\Users\wnsuw\source\repos\chap 5-1\chap 5-1\bin\Debug\chap 5-1.exe.config
+C:\Users\wnsuw\source\repos\chap 5-1\chap 5-1\bin\Debug\chap 5-1.exe
+C:\Users\wnsuw\source\repos\chap 5-1\chap 5-1\bin\Debug\chap 5-1.pdb
+C:\Users\wnsuw\source\repos\chap 5-1\chap 5-1\bin\Debug\chap 5-1.xml
+C:\Users\wnsuw\source\repos\chap 5-1\chap 5-1\obj\Debug\chap 5-1.vbprojAssemblyReference.cache
+C:\Users\wnsuw\source\repos\chap 5-1\chap 5-1\obj\Debug\chap_5_1.Form1.resources
+C:\Users\wnsuw\source\repos\chap 5-1\chap 5-1\obj\Debug\chap_5_1.Resources.resources
+C:\Users\wnsuw\source\repos\chap 5-1\chap 5-1\obj\Debug\chap 5-1.vbproj.GenerateResource.cache
+C:\Users\wnsuw\source\repos\chap 5-1\chap 5-1\obj\Debug\chap 5-1.vbproj.CoreCompileInputs.cache
+C:\Users\wnsuw\source\repos\chap 5-1\chap 5-1\obj\Debug\chap 5-1.exe
+C:\Users\wnsuw\source\repos\chap 5-1\chap 5-1\obj\Debug\chap 5-1.xml
+C:\Users\wnsuw\source\repos\chap 5-1\chap 5-1\obj\Debug\chap 5-1.pdb
