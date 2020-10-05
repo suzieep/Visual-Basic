@@ -1,0 +1,11 @@
+C:\Users\wnsuw\source\repos\chap 5-8\chap 5-8\bin\Debug\chap 5-8.exe.config
+C:\Users\wnsuw\source\repos\chap 5-8\chap 5-8\bin\Debug\chap 5-8.exe
+C:\Users\wnsuw\source\repos\chap 5-8\chap 5-8\bin\Debug\chap 5-8.pdb
+C:\Users\wnsuw\source\repos\chap 5-8\chap 5-8\bin\Debug\chap 5-8.xml
+C:\Users\wnsuw\source\repos\chap 5-8\chap 5-8\obj\Debug\chap_5_8.Form1.resources
+C:\Users\wnsuw\source\repos\chap 5-8\chap 5-8\obj\Debug\chap_5_8.Resources.resources
+C:\Users\wnsuw\source\repos\chap 5-8\chap 5-8\obj\Debug\chap 5-8.vbproj.GenerateResource.cache
+C:\Users\wnsuw\source\repos\chap 5-8\chap 5-8\obj\Debug\chap 5-8.vbproj.CoreCompileInputs.cache
+C:\Users\wnsuw\source\repos\chap 5-8\chap 5-8\obj\Debug\chap 5-8.exe
+C:\Users\wnsuw\source\repos\chap 5-8\chap 5-8\obj\Debug\chap 5-8.xml
+C:\Users\wnsuw\source\repos\chap 5-8\chap 5-8\obj\Debug\chap 5-8.pdb
