@@ -1,0 +1,11 @@
+C:\Users\wnsuw\repo\Visual-Basic\chapter 6-11\chapter 6-11\bin\Debug\chapter 6-11.exe.config
+C:\Users\wnsuw\repo\Visual-Basic\chapter 6-11\chapter 6-11\bin\Debug\chapter 6-11.exe
+C:\Users\wnsuw\repo\Visual-Basic\chapter 6-11\chapter 6-11\bin\Debug\chapter 6-11.pdb
+C:\Users\wnsuw\repo\Visual-Basic\chapter 6-11\chapter 6-11\bin\Debug\chapter 6-11.xml
+C:\Users\wnsuw\repo\Visual-Basic\chapter 6-11\chapter 6-11\obj\Debug\chapter_6_11.Form1.resources
+C:\Users\wnsuw\repo\Visual-Basic\chapter 6-11\chapter 6-11\obj\Debug\chapter_6_11.Resources.resources
+C:\Users\wnsuw\repo\Visual-Basic\chapter 6-11\chapter 6-11\obj\Debug\chapter 6-11.vbproj.GenerateResource.cache
+C:\Users\wnsuw\repo\Visual-Basic\chapter 6-11\chapter 6-11\obj\Debug\chapter 6-11.vbproj.CoreCompileInputs.cache
+C:\Users\wnsuw\repo\Visual-Basic\chapter 6-11\chapter 6-11\obj\Debug\chapter 6-11.exe
+C:\Users\wnsuw\repo\Visual-Basic\chapter 6-11\chapter 6-11\obj\Debug\chapter 6-11.xml
+C:\Users\wnsuw\repo\Visual-Basic\chapter 6-11\chapter 6-11\obj\Debug\chapter 6-11.pdb

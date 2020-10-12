@@ -1,0 +1,12 @@
+C:\Users\wnsuw\repo\Visual-Basic\chap 6 -10\chap 6 -10\bin\Debug\chap 6 -10.exe.config
+C:\Users\wnsuw\repo\Visual-Basic\chap 6 -10\chap 6 -10\bin\Debug\chap 6 -10.exe
+C:\Users\wnsuw\repo\Visual-Basic\chap 6 -10\chap 6 -10\bin\Debug\chap 6 -10.pdb
+C:\Users\wnsuw\repo\Visual-Basic\chap 6 -10\chap 6 -10\bin\Debug\chap 6 -10.xml
+C:\Users\wnsuw\repo\Visual-Basic\chap 6 -10\chap 6 -10\obj\Debug\chap_6__10.Form1.resources
+C:\Users\wnsuw\repo\Visual-Basic\chap 6 -10\chap 6 -10\obj\Debug\chap_6__10.Resources.resources
+C:\Users\wnsuw\repo\Visual-Basic\chap 6 -10\chap 6 -10\obj\Debug\chap 6 -10.vbproj.GenerateResource.cache
+C:\Users\wnsuw\repo\Visual-Basic\chap 6 -10\chap 6 -10\obj\Debug\chap 6 -10.vbproj.CoreCompileInputs.cache
+C:\Users\wnsuw\repo\Visual-Basic\chap 6 -10\chap 6 -10\obj\Debug\chap 6 -10.exe
+C:\Users\wnsuw\repo\Visual-Basic\chap 6 -10\chap 6 -10\obj\Debug\chap 6 -10.xml
+C:\Users\wnsuw\repo\Visual-Basic\chap 6 -10\chap 6 -10\obj\Debug\chap 6 -10.pdb
+C:\Users\wnsuw\repo\Visual-Basic\chap 6 -10\chap 6 -10\obj\Debug\chap 6 -10.vbprojAssemblyReference.cache
