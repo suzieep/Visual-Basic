@@ -1,0 +1,12 @@
+C:\Users\wnsuw\repo\Visual-Basic\chap 8-2\chap 8-2\bin\Debug\chap 8-2.exe.config
+C:\Users\wnsuw\repo\Visual-Basic\chap 8-2\chap 8-2\bin\Debug\chap 8-2.exe
+C:\Users\wnsuw\repo\Visual-Basic\chap 8-2\chap 8-2\bin\Debug\chap 8-2.pdb
+C:\Users\wnsuw\repo\Visual-Basic\chap 8-2\chap 8-2\bin\Debug\chap 8-2.xml
+C:\Users\wnsuw\repo\Visual-Basic\chap 8-2\chap 8-2\obj\Debug\chap 8-2.vbprojAssemblyReference.cache
+C:\Users\wnsuw\repo\Visual-Basic\chap 8-2\chap 8-2\obj\Debug\chap_8_2.frmGugudan.resources
+C:\Users\wnsuw\repo\Visual-Basic\chap 8-2\chap 8-2\obj\Debug\chap_8_2.Resources.resources
+C:\Users\wnsuw\repo\Visual-Basic\chap 8-2\chap 8-2\obj\Debug\chap 8-2.vbproj.GenerateResource.cache
+C:\Users\wnsuw\repo\Visual-Basic\chap 8-2\chap 8-2\obj\Debug\chap 8-2.vbproj.CoreCompileInputs.cache
+C:\Users\wnsuw\repo\Visual-Basic\chap 8-2\chap 8-2\obj\Debug\chap 8-2.exe
+C:\Users\wnsuw\repo\Visual-Basic\chap 8-2\chap 8-2\obj\Debug\chap 8-2.xml
+C:\Users\wnsuw\repo\Visual-Basic\chap 8-2\chap 8-2\obj\Debug\chap 8-2.pdb
