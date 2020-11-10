@@ -1,0 +1,12 @@
+C:\Users\wnsuw\repo\Visual-Basic\9.2-3\9.2-3\obj\Debug\_9._2_3.frmCalendar.resources
+C:\Users\wnsuw\repo\Visual-Basic\9.2-3\9.2-3\obj\Debug\_9._2_3.Resources.resources
+C:\Users\wnsuw\repo\Visual-Basic\9.2-3\9.2-3\obj\Debug\9.2-3.vbproj.GenerateResource.cache
+C:\Users\wnsuw\repo\Visual-Basic\9.2-3\9.2-3\obj\Debug\9.2-3.vbproj.CoreCompileInputs.cache
+C:\Users\wnsuw\repo\Visual-Basic\9.2-3\9.2-3\bin\Debug\9.2-3.exe.config
+C:\Users\wnsuw\repo\Visual-Basic\9.2-3\9.2-3\bin\Debug\9.2-3.exe
+C:\Users\wnsuw\repo\Visual-Basic\9.2-3\9.2-3\bin\Debug\9.2-3.pdb
+C:\Users\wnsuw\repo\Visual-Basic\9.2-3\9.2-3\bin\Debug\9.2-3.xml
+C:\Users\wnsuw\repo\Visual-Basic\9.2-3\9.2-3\obj\Debug\9.2-3.exe
+C:\Users\wnsuw\repo\Visual-Basic\9.2-3\9.2-3\obj\Debug\9.2-3.xml
+C:\Users\wnsuw\repo\Visual-Basic\9.2-3\9.2-3\obj\Debug\9.2-3.pdb
+C:\Users\wnsuw\repo\Visual-Basic\9.2-3\9.2-3\obj\Debug\9.2-3.vbprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\wnsuw\repo\Visual-Basic\9.2-2\9.2-2\obj\Debug\9.2-2.vbprojAssemblyReference.cache
+C:\Users\wnsuw\repo\Visual-Basic\9.2-2\9.2-2\obj\Debug\_9._2_2.frmRichText.resources
+C:\Users\wnsuw\repo\Visual-Basic\9.2-2\9.2-2\obj\Debug\_9._2_2.Resources.resources
+C:\Users\wnsuw\repo\Visual-Basic\9.2-2\9.2-2\obj\Debug\9.2-2.vbproj.GenerateResource.cache
+C:\Users\wnsuw\repo\Visual-Basic\9.2-2\9.2-2\obj\Debug\9.2-2.vbproj.CoreCompileInputs.cache
+C:\Users\wnsuw\repo\Visual-Basic\9.2-2\9.2-2\bin\Debug\9.2-2.exe.config
+C:\Users\wnsuw\repo\Visual-Basic\9.2-2\9.2-2\bin\Debug\9.2-2.exe
+C:\Users\wnsuw\repo\Visual-Basic\9.2-2\9.2-2\bin\Debug\9.2-2.pdb
+C:\Users\wnsuw\repo\Visual-Basic\9.2-2\9.2-2\bin\Debug\9.2-2.xml
+C:\Users\wnsuw\repo\Visual-Basic\9.2-2\9.2-2\obj\Debug\9.2-2.exe
+C:\Users\wnsuw\repo\Visual-Basic\9.2-2\9.2-2\obj\Debug\9.2-2.xml
+C:\Users\wnsuw\repo\Visual-Basic\9.2-2\9.2-2\obj\Debug\9.2-2.pdb

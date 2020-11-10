@@ -1,0 +1,12 @@
+C:\Users\wnsuw\repo\Visual-Basic\chap 9.2-1\chap 9.2-1\obj\Debug\chap 9.2-1.vbprojAssemblyReference.cache
+C:\Users\wnsuw\repo\Visual-Basic\chap 9.2-1\chap 9.2-1\obj\Debug\chap_9._2_1.frmCheckedList.resources
+C:\Users\wnsuw\repo\Visual-Basic\chap 9.2-1\chap 9.2-1\obj\Debug\chap_9._2_1.Resources.resources
+C:\Users\wnsuw\repo\Visual-Basic\chap 9.2-1\chap 9.2-1\obj\Debug\chap 9.2-1.vbproj.GenerateResource.cache
+C:\Users\wnsuw\repo\Visual-Basic\chap 9.2-1\chap 9.2-1\obj\Debug\chap 9.2-1.vbproj.CoreCompileInputs.cache
+C:\Users\wnsuw\repo\Visual-Basic\chap 9.2-1\chap 9.2-1\bin\Debug\chap 9.2-1.exe.config
+C:\Users\wnsuw\repo\Visual-Basic\chap 9.2-1\chap 9.2-1\bin\Debug\chap 9.2-1.exe
+C:\Users\wnsuw\repo\Visual-Basic\chap 9.2-1\chap 9.2-1\bin\Debug\chap 9.2-1.pdb
+C:\Users\wnsuw\repo\Visual-Basic\chap 9.2-1\chap 9.2-1\bin\Debug\chap 9.2-1.xml
+C:\Users\wnsuw\repo\Visual-Basic\chap 9.2-1\chap 9.2-1\obj\Debug\chap 9.2-1.exe
+C:\Users\wnsuw\repo\Visual-Basic\chap 9.2-1\chap 9.2-1\obj\Debug\chap 9.2-1.xml
+C:\Users\wnsuw\repo\Visual-Basic\chap 9.2-1\chap 9.2-1\obj\Debug\chap 9.2-1.pdb
