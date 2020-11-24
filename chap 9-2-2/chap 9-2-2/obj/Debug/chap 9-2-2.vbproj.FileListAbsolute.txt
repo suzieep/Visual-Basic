@@ -1,0 +1,11 @@
+C:\Users\wnsuw\repo\Visual-Basic\chap 9-2-2\chap 9-2-2\bin\Debug\chap 9-2-2.exe.config
+C:\Users\wnsuw\repo\Visual-Basic\chap 9-2-2\chap 9-2-2\bin\Debug\chap 9-2-2.exe
+C:\Users\wnsuw\repo\Visual-Basic\chap 9-2-2\chap 9-2-2\bin\Debug\chap 9-2-2.pdb
+C:\Users\wnsuw\repo\Visual-Basic\chap 9-2-2\chap 9-2-2\bin\Debug\chap 9-2-2.xml
+C:\Users\wnsuw\repo\Visual-Basic\chap 9-2-2\chap 9-2-2\obj\Debug\chap_9_2_2.frmProgreeBar.resources
+C:\Users\wnsuw\repo\Visual-Basic\chap 9-2-2\chap 9-2-2\obj\Debug\chap_9_2_2.Resources.resources
+C:\Users\wnsuw\repo\Visual-Basic\chap 9-2-2\chap 9-2-2\obj\Debug\chap 9-2-2.vbproj.GenerateResource.cache
+C:\Users\wnsuw\repo\Visual-Basic\chap 9-2-2\chap 9-2-2\obj\Debug\chap 9-2-2.vbproj.CoreCompileInputs.cache
+C:\Users\wnsuw\repo\Visual-Basic\chap 9-2-2\chap 9-2-2\obj\Debug\chap 9-2-2.exe
+C:\Users\wnsuw\repo\Visual-Basic\chap 9-2-2\chap 9-2-2\obj\Debug\chap 9-2-2.xml
+C:\Users\wnsuw\repo\Visual-Basic\chap 9-2-2\chap 9-2-2\obj\Debug\chap 9-2-2.pdb
